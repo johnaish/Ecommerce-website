@@ -1,0 +1,62 @@
+[
+  {
+    "model": "shop.product",
+    "pk": 1,
+    "fields": {
+      "name": "Samsung Galaxy A14",
+      "price": "22500.00",
+      "description": "Affordable smartphone with a sleek design and great battery life.",
+      "category": "electronics"
+    }
+  },
+  {
+    "model": "shop.product",
+    "pk": 2,
+    "fields": {
+      "name": "HP Laptop 15s",
+      "price": "68500.00",
+      "description": "Powerful laptop with Intel i5, 8GB RAM, 512GB SSD, perfect for work and school.",
+      "category": "electronics"
+    }
+  },
+  {
+    "model": "shop.product",
+    "pk": 3,
+    "fields": {
+      "name": "Nike Air Force 1",
+      "price": "7500.00",
+      "description": "Classic sneakers, durable and stylish for everyday wear.",
+      "category": "fashion"
+    }
+  },
+  {
+    "model": "shop.product",
+    "pk": 4,
+    "fields": {
+      "name": "Sofa Set 5-Seater",
+      "price": "49999.00",
+      "description": "Comfortable fabric sofa set, modern design for your living room.",
+      "category": "home"
+    }
+  },
+  {
+    "model": "shop.product",
+    "pk": 5,
+    "fields": {
+      "name": "Nivea Body Lotion",
+      "price": "850.00",
+      "description": "Moisturizing lotion for smooth and healthy skin.",
+      "category": "beauty"
+    }
+  },
+  {
+    "model": "shop.product",
+    "pk": 6,
+    "fields": {
+      "name": "Electric Kettle 1.8L",
+      "price": "1800.00",
+      "description": "Fast boiling stainless steel kettle, automatic shut-off feature.",
+      "category": "home"
+    }
+  }
+]
